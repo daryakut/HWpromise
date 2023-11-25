@@ -105,7 +105,7 @@ job(2)
 
 job(3).then((data) => console.log(data));
 
-//"error", "rejected: even" , "odd"
+//"error", "odd"б"rejected: even" 
 
 
 
